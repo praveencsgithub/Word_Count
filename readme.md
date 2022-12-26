@@ -15,6 +15,6 @@
 
 # Time taken to finish this project is 2 hours.
 
-[Live link]()
+[Live link](https://snazzy-pegasus-a07b1f.netlify.app/)
 
 
